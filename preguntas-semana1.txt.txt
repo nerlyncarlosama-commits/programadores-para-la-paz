@@ -1,0 +1,12 @@
+Archivo 1: preguntas-semana1.txt
+
+
+text
+Pregunta 1:
+Respuesta: B
+
+Pregunta 2:
+Respuesta: C
+
+Pregunta 3:
+Respuesta: B
